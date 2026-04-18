@@ -126,12 +126,6 @@ For production or institutional use, further validation and compliance are requi
 
 ---
 
-## 👨‍💻 Authors
-
-**Joshua Jay F. Aguillon**  
-Bachelor of Science in Information Technology  
-
----
 
 ## 💡 Future Enhancements
 
